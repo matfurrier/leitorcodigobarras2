@@ -1,22 +1,21 @@
-# App Dog Finder
+# Equipe 
+Carlos Henrique Kulaif Navajas
+Naion Belas Juvenal 
 
-## Pacotes iniciais que deverão ser instalados
-```
-expo init appDogFinder
-```
-(selecione Blank JavaScript – default)
-```
-cd appDogFinder
-expo install expo-location
-expo install expo-permissions
-expo install react-native-svg
-expo install expo-constants
-expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+# BarCodeScanner-ReactNative
+Aplicação para trabalho da faculdade utilizando sensores do expo.
+O objetivo da aplicação é fazer a leitura do código de barra utilizando a câmera do Smartphone.
 
-npm i styled-components
-npm i @react-navigation/native
-npm i @react-navigation/stack
-npm i @react-navigation/bottom-tabs
-npm i react-native-swiper
-expo install @react-native-community/async-storage
-```
+# Instalação
+Primeiro passo
+$ npm i
+
+Segundo passo
+$ expo install expo-barcode-scanner
+
+Para visualizar no expo
+$ expo start
+
+# Como utilizar
+
+- Posicione o código de barras no leitor da câmera e toque na barra inferior para capturar o número do código de barra.

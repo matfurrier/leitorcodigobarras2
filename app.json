@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "appDogFinder",
-    "slug": "appDogFinder",
+    "name": "trabalhosensor",
+    "slug": "trabalhosensor",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#4EADBE"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
