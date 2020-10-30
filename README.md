@@ -1,5 +1,5 @@
 # Equipe 
-Carlos Henrique Kulaif Navajas
+Carlos Henrique Kulaif Navajas / 
 Naion Belas Juvenal 
 
 # BarCodeScanner-ReactNative
