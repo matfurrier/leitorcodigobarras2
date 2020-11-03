@@ -4,7 +4,7 @@ Naion Belas Juvenal
 
 # BarCodeScanner-ReactNative
 Aplicação para trabalho da faculdade utilizando sensores do expo.
-O objetivo da aplicação é fazer a leitura do Código de Barra e QR Code utilizando a câmera do Smartphone.
+O objetivo da aplicação é fazer a leitura do Código de Barra e QR Code utilizando a câmera do dispositivo.
 
 # Instalação
 Primeiro passo
